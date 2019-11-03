@@ -1,5 +1,5 @@
 # Unsupervised-Learning-and-Dimensionality-Reduction
-Anslysiing two clustering algorithms, namely:
+Analysing two clustering algorithms, namely:
 - K-means
 - Expectation Maximisation
 
